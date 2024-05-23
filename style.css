@@ -55,7 +55,9 @@ body {
 
 
 }
-
+.box_main img {
+    border-radius: 0px 0px 15px 15px;
+}
 .box_main_left {
     position: absolute;
     bottom: 0;
