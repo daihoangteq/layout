@@ -158,6 +158,8 @@ body {
     position: relative;
     overflow: hidden;
 
+    border-radius: 10px;
+
 }
 
 .main_second {
